@@ -17,13 +17,13 @@ Project Structure :
     |-- log.svg       # Image for the sign-in panel
     |-- register.svg  # Image for the sign-up panel
 
-    Files :
+Files :
 1) index.html: The main HTML file that contains the structure of the Sign In and Sign Up forms.
 2) style.css: The CSS file used to style the forms, buttons, and overall layout.
 3) app.js: The JavaScript file that contains the functionality to switch between Sign In and Sign Up forms.
 4) img: This folder contains images used in the form interface (log.svg and register.svg).
 
-   How to Use ?
+How to Use ?
 1. Clone the repository:
    git clone https://github.com/your-username/registration-form.git
 2. Navigate to the project folder:
