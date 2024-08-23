@@ -3,6 +3,7 @@ Registration Form with Sign In and Sign Up Pages
 This project demonstrates a responsive registration form with Sign In and Sign Up pages. The form is created using HTML, CSS, and JavaScript, and it provides a user-friendly interface for new user registration and existing user login.
 
 Features :
+
 Sign In Page: Allows users to log in with their username and password.
 
 Sign Up Page: Allows new users to register by providing their username, email, password, date of birth, address, and gender.
@@ -13,13 +14,9 @@ Social Media Integration: Users can sign in or sign up using social media platfo
 
 Project Structure :
 /registration-form
-
 |-- index.html        # The main HTML file
-
 |-- style.css         # The CSS file for styling
-
 |-- app.js            # The JavaScript file for form functionality
-
 |-- /img              # Folder containing images used in the form
     |-- log.svg       # Image for the sign-in panel
     |-- register.svg  # Image for the sign-up panel
