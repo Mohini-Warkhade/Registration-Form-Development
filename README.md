@@ -13,6 +13,7 @@ Responsive Design: The form layout is designed to be responsive and works well o
 Social Media Integration: Users can sign in or sign up using social media platforms like Facebook, Twitter, Google, and LinkedIn (icon placeholders included).
 
 Project Structure :
+
 /registration-form
 
 |-- index.html        # The main HTML file
