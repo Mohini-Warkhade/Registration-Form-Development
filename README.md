@@ -14,9 +14,13 @@ Social Media Integration: Users can sign in or sign up using social media platfo
 
 Project Structure :
 /registration-form
+
 |-- index.html        # The main HTML file
+
 |-- style.css         # The CSS file for styling
+
 |-- app.js            # The JavaScript file for form functionality
+
 |-- /img              # Folder containing images used in the form
     |-- log.svg       # Image for the sign-in panel
     |-- register.svg  # Image for the sign-up panel
