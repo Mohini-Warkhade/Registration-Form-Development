@@ -33,10 +33,8 @@ Files :
 4) img: This folder contains images used in the form interface (log.svg and register.svg).
 
 How to Use ?
-1. Clone the repository:
-   git clone https://github.com/your-username/registration-form.git
-2. Navigate to the project folder:
-   cd registration-form
+1. Clone the repository
+2. Navigate to the project folder
 3. Open the index.html file in your browser to view the form.
 
 Technologies Used :
