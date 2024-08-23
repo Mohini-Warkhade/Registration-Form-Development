@@ -4,15 +4,22 @@ This project demonstrates a responsive registration form with Sign In and Sign U
 
 Features :
 Sign In Page: Allows users to log in with their username and password.
+
 Sign Up Page: Allows new users to register by providing their username, email, password, date of birth, address, and gender.
+
 Responsive Design: The form layout is designed to be responsive and works well on both desktop and mobile devices.
+
 Social Media Integration: Users can sign in or sign up using social media platforms like Facebook, Twitter, Google, and LinkedIn (icon placeholders included).
 
 Project Structure :
 /registration-form
+
 |-- index.html        # The main HTML file
+
 |-- style.css         # The CSS file for styling
+
 |-- app.js            # The JavaScript file for form functionality
+
 |-- /img              # Folder containing images used in the form
     |-- log.svg       # Image for the sign-in panel
     |-- register.svg  # Image for the sign-up panel
